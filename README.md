@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![AndresLamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresLamar)](https://github.com/AndresLamar/github-readme-stats)
+[![AndresLamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresLamar&show_icons=true&theme=tokyonight)](https://github.com/AndresLamar/github-readme-stats)
 
 <!--
 **AndresLamar/AndresLamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
