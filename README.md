@@ -4,10 +4,6 @@
 
 <p>I'm a Full Stack developer based in Colombia with 3 years of experience in the software industry. I have worked on projects with a development environment based on React and NodeJs. Furthermore, I like to work in teams, and I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things every day. Currently I'm finishing my Software Engineer Degree.</p>
 
-- 🏦 I'm currently interning at Hotel Malibu, working on improving their website and building custom components for mass messaging systems using Joomla 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning Astro and NestJs
-
  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
    
 * Do you have any question or project to work together? Don't hesitate!.
